@@ -10,7 +10,7 @@ import re
 from datetime import datetime
 from importlib import resources
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
 import questionary
 import requests
